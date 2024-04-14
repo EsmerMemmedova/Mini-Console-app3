@@ -1,0 +1,17 @@
+C:\Users\2022\Desktop\mini consoleapp class\bin\Debug\net6.0\mini consoleapp class.exe
+C:\Users\2022\Desktop\mini consoleapp class\bin\Debug\net6.0\mini consoleapp class.deps.json
+C:\Users\2022\Desktop\mini consoleapp class\bin\Debug\net6.0\mini consoleapp class.runtimeconfig.json
+C:\Users\2022\Desktop\mini consoleapp class\bin\Debug\net6.0\mini consoleapp class.dll
+C:\Users\2022\Desktop\mini consoleapp class\bin\Debug\net6.0\mini consoleapp class.pdb
+C:\Users\2022\Desktop\mini consoleapp class\bin\Debug\net6.0\Core0.pdb
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\mini consoleapp class.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\mini consoleapp class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\mini consoleapp class.AssemblyInfoInputs.cache
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\mini consoleapp class.AssemblyInfo.cs
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\mini consoleapp class.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\mini con.1D8B003A.Up2Date
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\mini consoleapp class.dll
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\refint\mini consoleapp class.dll
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\mini consoleapp class.pdb
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\mini consoleapp class.genruntimeconfig.cache
+C:\Users\2022\Desktop\mini consoleapp class\obj\Debug\net6.0\ref\mini consoleapp class.dll

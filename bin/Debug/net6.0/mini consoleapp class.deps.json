@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mini consoleapp class/1.0.0": {
+        "dependencies": {
+          "Core0": "1.0.0",
+          "Core0.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "mini consoleapp class.dll": {}
+        }
+      },
+      "Core0.Reference/1.0.0.0": {
+        "runtime": {
+          "Core0.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mini consoleapp class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core0.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
